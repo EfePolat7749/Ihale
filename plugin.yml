@@ -1,0 +1,6 @@
+---
+name: Ihale
+version: 0.0.1
+main: iEfePolat\Ihale\Main
+api: 3.15.4
+...
